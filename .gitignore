@@ -1,0 +1,7 @@
+node_modules
+*.iml
+.idea
+src/main/resources/data/seeds.txt
+src/main/resources/shuffle/js/*.txt
+src/main/resources/shuffle/java/*.txt
+package-lock.json
