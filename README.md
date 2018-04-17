@@ -35,7 +35,7 @@ Play with the algorithms and get them to produce the same files.
 - `src/main/js/shuffle_one.js`
 - `src/main/java/ShuffleOne.java`
 
-Run them and compare the output folders `src/main/resources/shuffle/js` and `src/main/resources/shuffle/java` with a tool like [Meld](http://meldmerge.org/).
+Run them (first the JS version) and compare the output folders `src/main/resources/shuffle/js` and `src/main/resources/shuffle/java` with a tool like [Meld](http://meldmerge.org/).
 
 If there is no difference on any file, you have successfully implemented cross-platform shuffling and PRNG algorithms.
 
